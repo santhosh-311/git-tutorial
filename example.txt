@@ -2,4 +2,9 @@ Hello, this is an example text file about my git command based learning. Day1
 
 when using git commit , there is an error occurring, but if git commit -m "some message" is typed, then there is no error.
 
-Done with connecting the local repo with remote repo in GitHub. and the files from the local are visible on the remote repo
+Done with connecting the local repo with remote repo in GitHub. and the files from the local are visible on the remote repo.
+
+Created a new branch using git branch command and used checkout command to move to this branch which is "copy1".
+
+committed this branch and pushed it to the remote repo using git push --set-upstream origin copy1
+
